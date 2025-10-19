@@ -1,4 +1,4 @@
-﻿
+﻿Preguntas a responder:
 
 Una breve explicación sobre la arquitectura monolítica y microservicios podríamos decir que:
 La arquitectura monolítica tiene toda la aplicación en un solo bloque. Mientras que en microservicios, la app se divide en partes más pequeñas e independientes que se comunican entre sí.
